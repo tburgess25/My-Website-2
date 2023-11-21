@@ -1,0 +1,30 @@
+<html>
+    <head>
+        </head>
+<header>
+    <nav>
+        <h1>
+            Index.html: The Forever Entry Page
+        </h1>
+        <a href="<html> Second page">Second Page</a>
+    </nav>
+</header>
+<body>
+    <ul>
+        <li>
+            <h4>
+                Baseball
+            </h4>
+                <p>
+                    <img src="Red Sox.png">
+                </p>
+            </li>
+            <li>
+                Hockey
+            </li>
+            <li>
+                Basketball
+            </li>
+        </ul>
+    </body>
+</html>
